@@ -9,6 +9,6 @@ If you miss nine times, the game is over.
 
 My first attempt at programming a game. Learning about the game loop and such. 
 
-![alt text](https://github.com/bluecodethree/moving-cat-game/images/game.jpg "Moving Cat Game by Carlie Hamilton")
+![alt text](https://github.com/BlueCodeThree/Moving-Cat-Game/blob/master/images/game.jpg "Moving Cat Game by Carlie Hamilton")
 
-![alt text](https://github.com/bluecodethree/moving-cat-game/images/gameover.jpg "Moving Cat Game - game over by Carlie Hamilton")
+![alt text](https://github.com/BlueCodeThree/Moving-Cat-Game/blob/master/images/gameover.jpg "Moving Cat Game - game over by Carlie Hamilton")
